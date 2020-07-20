@@ -1,5 +1,5 @@
 {
-	"usuarios" :[
+	"usuarios" : [
 		{
 			"id": 1,
 			"nome": "Stephen Shields",
@@ -20,15 +20,15 @@
 			"atualizadoem": "2021-04-22 02:11:46",
 			"status": false
 		},
+	]
+	"cartoes" : [
 		{
-			"id": 3,
-			"nome": "Daniel Patterson",
-			"email": "Aliquam@ultricessitamet.edu",
-			"senha": "12345678",
-			"token": "1881",
-			"criadoem": "2020-08-12 09:30:29",
-			"atualizadoem": "2019-10-02 12:47:43",
-			"status": false
-		}
+			"id": 1,
+			"intervalo": "09090 - 090909",
+		},
+		{
+			"id": 2,
+			"intervalo": "878787-989898,
+		},
 	]
 }
