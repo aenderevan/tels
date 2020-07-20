@@ -1,0 +1,34 @@
+{
+	"usuarios" :[
+		{
+			"id": 1,
+			"nome": "Stephen Shields",
+			"email": "porttitor@tempus.org",
+			"senha": "12345678",
+			"token": "8828",
+			"criadoem": "2021-05-24 04:58:29",
+			"atualizadoem": "2020-06-09 02:27:08",
+			"status": false
+		},
+		{
+			"id": 2,
+			"nome": "Addison Wolfe",
+			"email": "amet.faucibus@parturientmontesnascetur.com",
+			"senha": "12345678",
+			"token": "3812",
+			"criadoem": "2021-06-23 19:18:59",
+			"atualizadoem": "2021-04-22 02:11:46",
+			"status": false
+		},
+		{
+			"id": 3,
+			"nome": "Daniel Patterson",
+			"email": "Aliquam@ultricessitamet.edu",
+			"senha": "12345678",
+			"token": "1881",
+			"criadoem": "2020-08-12 09:30:29",
+			"atualizadoem": "2019-10-02 12:47:43",
+			"status": false
+		},
+	]
+}
